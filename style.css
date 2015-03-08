@@ -285,6 +285,9 @@ body:before {
   background: #fff;
   padding: 40px 0;
 }
+.pitch a {
+  color: #0081c2;
+}
 .pitch h2 {
   position: relative;
   height: 44px;
