@@ -1,0 +1,7 @@
+.project
+.temp
+.tmp
+.psd
+.tmp*
+*.tmp
+.idea/
